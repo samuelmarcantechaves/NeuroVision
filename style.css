@@ -99,10 +99,12 @@ body {
 
 .robot-container {
     flex: 1;
+    max-width: 600px;
 }
 
 .robot-container img {
-    max-width: 120px;
+    width: 150px;
+    max-width: 600px;
 }
 
 .features-list {
